@@ -1,0 +1,10 @@
+h1 {
+    color: red;
+}
+#main {
+    padding: 5px;
+    padding-left:  15px;
+    padding-right: 15px;
+    background-color: #ffffff;
+    border-radius: 0 0 5px 5px;
+}
